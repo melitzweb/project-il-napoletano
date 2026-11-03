@@ -23,3 +23,5 @@ fontawesome.com
 cdnjs.com
 
 sweetalert2
+
+firefly adobe
