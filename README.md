@@ -21,3 +21,5 @@ fonts.google.com
 fontawesome.com
 
 cdnjs.com
+
+sweetalert2
