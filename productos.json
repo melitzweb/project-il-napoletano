@@ -4,62 +4,62 @@
         "nombre": "muzzarella",
         "precio": 21900,
         "fecha": "03-11-2026",
-        "descripcion": "pizza clásica de muzzarella con aceitunas"
+        "descripcion": "Pizza clásica de muzzarella con aceitunas"
     },
 {
         "imagen": "image/pepperoni.png",
         "nombre": "pepperoni",
         "precio": 27900,
         "fecha": "03-11-2026",
-        "descripcion": "pizza con finas rodajas de pepperoni"
+        "descripcion": "Pizza de pepperoni"
     },
     {
         "imagen": "image/napo.png",
         "nombre": "napolitana ajo y albahaca",
         "precio": 26700,
         "fecha": "03-11-2026",
-        "descripcion": "pizza napolitana con ajo y albahaca"
+        "descripcion": "Pizza napolitana con rodajas de tomate, ajo y albahaca picada"
     },
     {
         "imagen": "image/jamonymorron.png",
         "nombre": "jamón y morrón",
         "precio": 27900,
         "fecha": "03-11-2026",
-        "descripcion": "pizza con fetas de jamon y tiras de morron con aceitunas"
+        "descripcion": "Pizza con fetas de jamon y tiras de morron con aceitunas"
     },
     {
         "imagen": "image/fugazz.png",
         "nombre": "fugazzeta",
         "precio": 29000,
         "fecha": "03-11-2026",
-        "descripcion": "pizza de fugazzeta"
+        "descripcion": "Pizza de fugazzeta"
     },
     {
         "imagen": "image/provo.png",
         "nombre": "provolone",
         "precio": 30100,
         "fecha": "03-11-2026",
-        "descripcion": "pizza de queso provolone con aceitunas negras"
+        "descripcion": "Pizza de queso provolone con aceitunas negras"
     },
     {
         "imagen": "image/huevo.png",
         "nombre": "huevo duro picado",
         "precio": 25600,
         "fecha": "03-11-2026",
-        "descripcion": "pizza de huevo duro picado"
+        "descripcion": "Pizza de huevo duro picado"
     },
     {
         "imagen":"image/san martin.png",
         "nombre":"pizza san martin",
         "precio":20500,
         "fecha":"03-11-2026",
-        "descripcion": "pizza de muzzarella con morrones asados y aceitunas negras"
+        "descripcion": "Pizza de muzzarella con morrones asados y aceitunas negras"
     },
     {
         "imagen":"image/especial.png",
         "nombre":"especial",
         "precio":40000,
         "fecha":"03-11-2026",
-        "descripcion": "pizza de muzzarella con champiñones, palmitos y salsa de puerros"
+        "descripcion": "Pizza de muzzarella con champiñones, palmitos y salsa de puerros"
     }
 ]
