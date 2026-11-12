@@ -58,6 +58,21 @@ main h2 {
   font-weight: 500;
 }
 
+.search {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+#input-search {
+  padding: 10px 15px;
+  width: 300px;
+  max-width: 90%;
+  border: 2px solid #e1e8ee;
+  border-radius: 20px;
+  font-size: 1rem;
+  outline: none;
+}
+
 .gallery {
   display: flex;
   justify-content: center;
@@ -212,22 +227,27 @@ main h2 {
   transform: scale(1.1);
   box-shadow: 0 0.375rem 1rem rgba(0, 0, 0, 0.4);
 }
+
 /*SweetAlert*/
 .img-clickeable {
   cursor: pointer;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
+
 .img-clickeable:hover {
   transform: scale(1.03);
   opacity: 0.9;
 }
-.swal2-title{
+
+.swal2-title {
   font-family: 'Oswald', sans-serif;
   color: #e50c39;
 }
+
 .swal2-html-container {
   font-family: 'Work Sans', sans-serif;
 }
+
 /* tablet (≤ 1024px): 2 columnas */
 @media (max-width: 1024px) {
   #header-container {
